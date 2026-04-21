@@ -31,7 +31,7 @@ function calcularNivel(vitorias, derrotas) {
 }
 
 // VARIÁVEIS E LAÇO DE REPETIÇÃO: 
-// Criamos uma lista de jogadores para processar vários de uma vez
+// Lista de jogadores para processar vários de uma vez
 const listaJogadores = [
     { v: 7, d: 2 },
     { v: 15, d: 5 },
